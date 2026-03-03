@@ -9,11 +9,11 @@ Mein Fokus liegt auf der strukturierten Analyse von Daten, der Entwicklung klare
 
 ## 🔍 Schwerpunkt
 
-- Datenanalyse & Explorative Auswertung
-- KPI-Entwicklung & Performance Monitoring
-- Datenmodellierung in Power BI
-- Reporting- und Prozessoptimierung
-- Automatisierung strukturierter Datenworkflows
+- Datenanalyse & Explorative Auswertung  
+- KPI-Entwicklung & Performance Monitoring  
+- Datenmodellierung in Power BI  
+- Reporting- und Prozessoptimierung  
+- Automatisierung strukturierter Datenworkflows  
 
 ---
 
@@ -25,42 +25,58 @@ Mein Fokus liegt auf der strukturierten Analyse von Daten, der Entwicklung klare
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
+---
 
 ## 🛠 Tech Stack
 
-**Business Intelligence**
-- Power BI (Data Modeling, DAX, Power Query)
-- Executive Dashboard Design
-- KPI-Frameworks
+### Business Intelligence
+- Power BI (Data Modeling, DAX, Power Query)  
+- Executive Dashboard Design  
+- KPI-Frameworks & Performance-Logiken  
 
-**Data & Automation**
-- SQL
-- Python (Pandas)
-- Excel (Advanced Formulas, Power Query)
-- Strukturierte Datenabgleiche & Validierungslogiken
+### Data & Automation
+- SQL  
+- Python (Pandas)  
+- Excel (Advanced Formulas, Power Query)  
+- Strukturierte Datenabgleiche & Validierungslogiken  
 
 ---
 
 ## 📊 Ausgewählte Projekte
 
-### HR KPI & Performance Dashboard
-Entwicklung eines entscheidungsorientierten Dashboards zur Analyse von Personal- und Auszahlungskennzahlen.  
-Fokus auf KPI-Transparenz, Vergleich absoluter und relativer Werte sowie Drill-Down-Analysen.
+### 🚆 Cargo KPI & Controlling Dashboard  
+🔗 Repository: https://github.com/ChrisH235/Cargo_Dashboard  
 
-### Prozess- & Controlling-Dashboard (DB Projekt)
-Analyse bestehender Datenstrukturen und Entwicklung eines Dashboards zur Visualisierung von Prozesskennzahlen.  
-Ziel: Transparenz schaffen und manuelle Reporting-Strukturen digital weiterentwickeln.
+[![Cargo Dashboard – Executive View](https://raw.githubusercontent.com/ChrisH235/Cargo_Dashboard/main/images/page1_executive.png)](https://github.com/ChrisH235/Cargo_Dashboard)
 
-### Datenabgleich & Behörden-Schnittstelle
-Mehrstufige Validierung strukturierter Datensätze im Kontext regulatorischer Anforderungen.  
-Fokus auf Datenqualität, Prozesslogik und perspektivischer Digitalisierung von Schnittstellen.
+Entwicklung eines entscheidungsorientierten Power BI Dashboards zur Analyse von Prozess- und Auszahlungskennzahlen.
 
-### Automatisierter Excel-Abgleich (PoC)
-Entwicklung eines Tools zur Identifikation und Klassifikation strukturierter Datensätze inkl. Export bereinigter Ergebnisse.
+**Schwerpunkte:**
+- KPI-Logik & Performance-Monitoring  
+- Absolute vs. relative Kennzahlen  
+- Drill-Down-Analysen  
+- Strukturierte Datenmodellierung  
+- Digitalisierung manueller Reporting-Strukturen  
+
+Ziel: Transparenz in operative Prozesse bringen und Controlling digital stärken.
+
+---
+
+### 🧾 RechnungsVerwaltung – Strukturierte Rechnungs-App  
+🔗 Repository: https://github.com/ChrisH235/RechnungsVerwaltung  
+
+Konzeption und Umsetzung einer strukturierten Anwendung zur digitalen Verwaltung von Rechnungen.
+
+**Schwerpunkte:**
+- Datenstruktur & Validierungslogik  
+- Automatisierung manueller Erfassung  
+- Nachvollziehbare Zahlungsstatus-Logik  
+- Vorbereitung für Reporting & Auswertung  
+
+Ziel: Excel-Insellösungen in eine skalierbare, saubere Datenstruktur überführen.
 
 ---
 
 ## 🎯 Ziel
 
-Data Analytics nicht nur als Reporting-Tool, sondern als Instrument zur strukturellen Verbesserung von Prozessen und Entscheidungsqualität einzusetzen.
-
+Data Analytics nicht nur als Reporting-Tool zu verstehen, sondern als Instrument zur strukturellen Verbesserung von Prozessen, Transparenz und Entscheidungsqualität einzusetzen.
