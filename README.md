@@ -32,7 +32,7 @@ Mein Fokus liegt auf der strukturierten Analyse von Daten, der Entwicklung klare
 ### Business Intelligence
 - Power BI (Data Modeling, DAX, Power Query)  
 - Executive Dashboard Design  
-- KPI-Frameworks & Performance-Logiken  
+- KPI-Frameworks  
 
 ### Data & Automation
 - SQL  
@@ -42,41 +42,32 @@ Mein Fokus liegt auf der strukturierten Analyse von Daten, der Entwicklung klare
 
 ---
 
-## 📊 Ausgewählte Projekte
-
-### 🚆 Cargo KPI & Controlling Dashboard  
-🔗 Repository: https://github.com/ChrisH235/Cargo_Dashboard  
-
-[![Cargo Dashboard – Executive View](https://raw.githubusercontent.com/ChrisH235/Cargo_Dashboard/main/images/page1_executive.png)](https://github.com/ChrisH235/Cargo_Dashboard)
-
-Entwicklung eines entscheidungsorientierten Power BI Dashboards zur Analyse von Prozess- und Auszahlungskennzahlen.
-
-**Schwerpunkte:**
-- KPI-Logik & Performance-Monitoring  
-- Absolute vs. relative Kennzahlen  
-- Drill-Down-Analysen  
-- Strukturierte Datenmodellierung  
-- Digitalisierung manueller Reporting-Strukturen  
-
-Ziel: Transparenz in operative Prozesse bringen und Controlling digital stärken.
+# 📊 Ausgewählte Projekte
 
 ---
 
-### 🧾 RechnungsVerwaltung – Strukturierte Rechnungs-App  
-🔗 Repository: https://github.com/ChrisH235/RechnungsVerwaltung  
+## 🚆 Cargo KPI & Controlling Dashboard  
+<a href="https://github.com/ChrisH235/Cargo_Dashboard">
+  <img src="https://raw.githubusercontent.com/ChrisH235/Cargo_Dashboard/main/images/page1_executive.png" width="420"/>
+</a>
 
-Konzeption und Umsetzung einer strukturierten Anwendung zur digitalen Verwaltung von Rechnungen.
+**Power BI · DAX · KPI-System · Prozess-Controlling**
 
-**Schwerpunkte:**
-- Datenstruktur & Validierungslogik  
-- Automatisierung manueller Erfassung  
-- Nachvollziehbare Zahlungsstatus-Logik  
-- Vorbereitung für Reporting & Auswertung  
+Entwicklung eines entscheidungsorientierten Dashboards zur Analyse operativer Kennzahlen und Digitalisierung manueller Reporting-Strukturen.
 
-Ziel: Excel-Insellösungen in eine skalierbare, saubere Datenstruktur überführen.
+---
+
+## 🧾 RechnungsVerwaltung – Digitale Rechnungs-App  
+<a href="https://github.com/ChrisH235/RechnungsVerwaltung">
+  <img src="https://raw.githubusercontent.com/ChrisH235/RechnungsVerwaltung/main/screenshots/form.png" width="420"/>
+</a>
+
+**Strukturierte Datenerfassung · Validierungslogik · Automatisierung**
+
+Konzeption einer sauberen, nachvollziehbaren Struktur zur digitalen Verwaltung von Rechnungen als Ersatz für manuelle Excel-Insellösungen.
 
 ---
 
 ## 🎯 Ziel
 
-Data Analytics nicht nur als Reporting-Tool zu verstehen, sondern als Instrument zur strukturellen Verbesserung von Prozessen, Transparenz und Entscheidungsqualität einzusetzen.
+Data Analytics nicht nur als Reporting-Tool, sondern als Instrument zur strukturellen Verbesserung von Prozessen und Entscheidungsqualität einzusetzen.
