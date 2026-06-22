@@ -1,19 +1,30 @@
 # Hi, ich bin Chris
 
-**Data Analyst | Business Intelligence | Digital Transformation**
+**Data Analyst | Business Intelligence | Prozess- & Digitalisierungsprojekte**
 
-Ich entwickle datengetriebene Lösungen zur Verbesserung von Entscheidungsprozessen und zur digitalen Optimierung von Geschäftsabläufen.  
-Mein Fokus liegt auf der strukturierten Analyse von Daten, der Entwicklung klarer KPI-Systeme und der Transformation manueller Prozesse in transparente, steuerbare Reporting-Strukturen.
+Ich unterstütze Organisationen dabei, Daten, Prozesse und Fachanforderungen in praktikable digitale Lösungen zu übersetzen.
+
+Durch meine langjährige Berufserfahrung in Verwaltung und Projektarbeit verbinde ich Fachbereich, Datenanalyse und Digitalisierung miteinander – von der Prozessaufnahme über die Analyse bis zur Umsetzung transparenter Reporting- und Steuerungsinstrumente.
+
+---
+
+## 👋 Über mich
+
+- 10 Jahre Berufserfahrung im öffentlichen Sektor
+- Projekt- und Digitalisierungserfahrung
+- Weiterbildung zum Data Analyst
+- Erfahrung mit Power BI, SQL, Python und Prozessanalyse
+- Interesse an Business Intelligence, Business Analysis und Digital Transformation
 
 ---
 
 ## 🔍 Schwerpunkt
 
-- Datenanalyse & Explorative Auswertung  
-- KPI-Entwicklung & Performance Monitoring  
-- Datenmodellierung in Power BI  
-- Reporting- und Prozessoptimierung  
-- Automatisierung strukturierter Datenworkflows  
+- Datenanalyse & Explorative Auswertung
+- KPI-Entwicklung & Performance Monitoring
+- Datenmodellierung in Power BI
+- Reporting- und Prozessoptimierung
+- Automatisierung strukturierter Datenworkflows
 
 ---
 
@@ -30,15 +41,22 @@ Mein Fokus liegt auf der strukturierten Analyse von Daten, der Entwicklung klare
 ## 🛠 Tech Stack
 
 ### Business Intelligence
-- Power BI (Data Modeling, DAX, Power Query)  
-- Executive Dashboard Design  
-- KPI-Frameworks  
+- Power BI (Data Modeling, DAX, Power Query)
+- Executive Dashboard Design
+- KPI-Frameworks
 
 ### Data & Automation
-- SQL  
-- Python (Pandas)  
-- Excel (Advanced Formulas, Power Query)  
-- Strukturierte Datenabgleiche & Validierungslogiken  
+- SQL
+- Python (Pandas)
+- Excel (Advanced Formulas, Power Query)
+- Strukturierte Datenabgleiche & Validierungslogiken
+
+### Projekt- & Prozessarbeit
+- Anforderungsanalyse
+- Prozessaufnahme und Optimierung
+- Stakeholder-Kommunikation
+- Dokumentation und Wissensmanagement
+- Digitale Transformationsprojekte
 
 ---
 
@@ -46,28 +64,118 @@ Mein Fokus liegt auf der strukturierten Analyse von Daten, der Entwicklung klare
 
 ---
 
-## 🚆 Cargo KPI & Controlling Dashboard  
+## 🚆 Cargo KPI & Controlling Dashboard
+
+[🔗 Zum Projekt](https://github.com/ChrisH235/Cargo_Dashboard)
+
 <a href="https://github.com/ChrisH235/Cargo_Dashboard">
   <img src="https://raw.githubusercontent.com/ChrisH235/Cargo_Dashboard/main/images/page1_executive.png" width="420"/>
 </a>
 
 **Power BI · DAX · KPI-System · Prozess-Controlling**
 
-Entwicklung eines entscheidungsorientierten Dashboards zur Analyse operativer Kennzahlen und Digitalisierung manueller Reporting-Strukturen.
+Entwicklung eines Management-Dashboards zur Analyse von Sonderzahlungen und operativen Kennzahlen.
+
+### Schwerpunkte
+- KPI-System für Führungskräfte
+- Identifikation von Ausreißern
+- Quartalsvergleiche
+- Automatisierung manueller Reports
+- Transparente Entscheidungsgrundlagen
 
 ---
 
-## 🧾 RechnungsVerwaltung – Digitale Rechnungs-App  
+## 🧾 RechnungsVerwaltung – Digitale Rechnungs-App
+
+[🔗 Zum Projekt](https://github.com/ChrisH235/RechnungsVerwaltung)
+
 <a href="https://github.com/ChrisH235/RechnungsVerwaltung">
   <img src="https://raw.githubusercontent.com/ChrisH235/RechnungsVerwaltung/main/screenshots/form.png" width="420"/>
 </a>
 
 **Strukturierte Datenerfassung · Validierungslogik · Automatisierung**
 
-Konzeption einer sauberen, nachvollziehbaren Struktur zur digitalen Verwaltung von Rechnungen als Ersatz für manuelle Excel-Insellösungen.
+Konzeption einer digitalen Lösung zur strukturierten Verwaltung von Rechnungen als Alternative zu manuellen Excel-Prozessen.
+
+### Schwerpunkte
+- Benutzerfreundliche Datenerfassung
+- Plausibilitäts- und Validierungslogiken
+- Strukturierte Datenhaltung
+- Nachvollziehbare Prozesse
+- Vorbereitung automatisierter Auswertungen
 
 ---
 
-## 🎯 Ziel
+# 🚀 Weitere Projekte & Interessen
 
-Data Analytics nicht nur als Reporting-Tool, sondern als Instrument zur strukturellen Verbesserung von Prozessen und Entscheidungsqualität einzusetzen.
+Neben meiner beruflichen Weiterentwicklung beschäftige ich mich auch privat intensiv mit Digitalisierung, Automatisierung und Prozessoptimierung.
+
+### 🏛 Vereinsdigitalisierung
+
+Unterstützung eines Sportvereins bei der Digitalisierung von Verwaltungs- und Kommunikationsprozessen sowie der Entwicklung einer langfristigen Digitalisierungs-Roadmap.
+
+**Themen:**
+- Mitgliederverwaltung
+- Prozessanalyse
+- Clubdesk
+- KI-Unterstützung
+- Automatisierung von Verwaltungsabläufen
+
+### 🌐 Website & Hosting
+
+Konzeption, Entwicklung und Hosting einer Coaching-Website inklusive Deployment, Docker, Nginx und Domainmanagement.
+
+**Technologien:**
+- HTML / CSS / JavaScript
+- Docker
+- Nginx
+- Cloudflare
+- Linux
+
+### 🏠 Home Automation
+
+Aufbau und Erweiterung eines Home-Assistant-Systems mit Fokus auf Automatisierung, Datenintegration und smarten Workflows.
+
+**Themen:**
+- Home Assistant
+- Zigbee
+- Philips Hue
+- Automatisierungen
+- API-Integrationen
+
+### 🖥 Self-Hosting & Infrastruktur
+
+Betrieb eigener Linux-Systeme und Container-Lösungen im privaten Umfeld.
+
+**Technologien:**
+- Ubuntu Server
+- Docker
+- Portainer
+- Nginx
+- Cloudflare Tunnel
+
+---
+
+## 🌱 Aktuell beschäftige ich mich mit
+
+- Business Intelligence & Data Analytics
+- Prozessdigitalisierung
+- Business Analysis
+- Microsoft Power Platform
+- Automatisierung von Verwaltungsprozessen
+- KI-gestützten Workflows
+
+---
+
+## 🎯 Mein Ziel
+
+Data Analytics nicht nur als Reporting-Tool zu verstehen, sondern als Instrument zur strukturellen Verbesserung von Prozessen, Transparenz und Entscheidungsqualität.
+
+Ich möchte dazu beitragen, dass Daten, Fachbereiche und digitale Lösungen sinnvoll zusammenwirken und echten Mehrwert für Organisationen schaffen.
+
+---
+
+## 📫 Kontakt
+
+- GitHub: https://github.com/ChrisH235
+- LinkedIn: *(optional ergänzen)*
