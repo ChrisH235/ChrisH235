@@ -106,20 +106,32 @@ Konzeption einer digitalen Lösung zur strukturierten Verwaltung von Rechnungen 
 
 ---
 
+## 🏛 Vereinsdigitalisierung – SG Böhl-Iggelheim
+
+**Ehrenamt · Prozessanalyse · ClubDesk · Excel · Webentwicklung · Automatisierung**
+
+Bei der SG Böhl-Iggelheim engagiere ich mich in der Presse- und Öffentlichkeitsarbeit und als ClubDesk-Administrator. Dabei arbeite ich an digitalen Lösungen, die wiederkehrende Aufgaben im Vereinsalltag vereinfachen und ehrenamtlich Engagierte entlasten.
+
+### Konkrete Arbeiten
+- **Online-Reservierungen:** Weiterentwicklung der Theaterseiten mit digitalen Buchungsmöglichkeiten.
+- **Buchungsverwaltung:** Entwicklung eines Excel-Tools zur Verwaltung von Theaterreservierungen mit CSV-Import, Kapazitätsübersicht und Erfassung des Zahlungsstatus.
+- **Vereinsverwaltung:** Administration von ClubDesk und Weiterentwicklung der Abläufe rund um Mitglieder- und Kontaktdaten.
+- **Digitalisierungsplanung:** Arbeit an einer Roadmap auf Grundlage eines Digital-Checks für den Verein.
+
+### Laufende Vorhaben
+- Automatisierung wiederkehrender Verwaltungsaufgaben, unter anderem im Mahnwesen.
+- Vereinfachung der Datenübernahme und der Abstimmung zwischen Online-Buchung und interner Verwaltung.
+- Erprobung KI-gestützter Unterstützung für Dokumentation und Kommunikation.
+
+**Mein Ansatz:** Anforderungen aus dem Vereinsalltag aufnehmen, Abläufe strukturieren und daraus alltagstaugliche Lösungen entwickeln.
+
+[🔗 Zur Vereinswebsite](https://www.sg-boehl-iggelheim.de)
+
+---
+
 # 🚀 Weitere Projekte & Interessen
 
 Neben meiner beruflichen Weiterentwicklung beschäftige ich mich auch privat intensiv mit Digitalisierung, Automatisierung und Prozessoptimierung.
-
-### 🏛 Vereinsdigitalisierung
-
-Unterstützung eines Sportvereins bei der Digitalisierung von Verwaltungs- und Kommunikationsprozessen sowie der Entwicklung einer langfristigen Digitalisierungs-Roadmap.
-
-**Themen:**
-- Mitgliederverwaltung
-- Prozessanalyse
-- Clubdesk
-- KI-Unterstützung
-- Automatisierung von Verwaltungsabläufen
 
 ### 🌐 Website & Hosting
 
